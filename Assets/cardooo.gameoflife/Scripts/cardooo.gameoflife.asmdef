@@ -1,0 +1,16 @@
+{
+    "name": "cardooo.gameoflife",
+    "rootNamespace": "",
+    "references": [
+        "GUID:db1fe2e7ec10d4fbb8afce47cf21c060"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
