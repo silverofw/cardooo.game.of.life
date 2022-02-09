@@ -7,6 +7,6 @@
 	"license": "MIT",
 	"dependencies": 
 	{
-		"cardooo.core": "https://github.com/silverofw/cardooo.core.git?path=/Assets/Scripts/cardooo.core#1.0.1",
+		"cardooo.core": "https://github.com/silverofw/cardooo.core.git?path=/Assets/Scripts/cardooo.core#1.0.1"
 	}
 }
