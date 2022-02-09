@@ -2,11 +2,22 @@
 	"name": "cardooo.game.of.life",
 	"displayName": "cardooo.game.of.life",
 	"description": "Game of life!",
-	"version": "1.1.1",
+	"version": "1.2.0",
 	"unity": "2020.3",
 	"license": "MIT",
 	"dependencies": 
 	{
-		"cardooo.core": "https://github.com/silverofw/cardooo.core.git?path=/Assets/Scripts/cardooo.core#1.0.1"
-	}
+		"cardooo.core": "https://github.com/silverofw/cardooo.core.git?path=/Assets/cardooo.core#1.1.0"
+	},
+	"keywords": [
+    "Game",
+    "Unity"
+  ],
+  "author": {
+    "name": "cardooo",
+    "email": "silverofw@gmail.com",
+    "url": "https://www.facebook.com/cardocardooo"
+  },
+  "type": "tool",
+  "hideInEditor": false
 }
